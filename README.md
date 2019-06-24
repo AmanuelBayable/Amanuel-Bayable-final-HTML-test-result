@@ -22,4 +22,5 @@ extra work :
 - added letter spacing and Color animation to form button.
 - added preloader with blurred background.
 - added elastic loading after pre loader completes.
+- added animating hamburger icon
 
